@@ -1,0 +1,2 @@
+module fr.univamu.iut {
+}
